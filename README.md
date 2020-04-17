@@ -1,4 +1,4 @@
-# Almost_there_5:SmartBricks
+# SmartBricks
 ## Tools
 1) Download nodejs and install that software
 	link : [https://nodejs.org/en/download/](https://nodejs.org/en/download/)
@@ -26,7 +26,7 @@
 ## How to run Code ?? 
 1) Open VS Code and press 
 <kbd>Ctrl +`</kbd>
-2) Open folder **Almost_there_5** which you have downloaded from here.
+2) Open folder which you have downloaded from here.
 3) ***``npm install``***
 4) ***``npm run dev``***
 5) Open Chrome browser and type ***``http://localhost:5000``*** 
